@@ -1,0 +1,1 @@
+{"name":"FileCraft - PDF・画像変換","short_name":"FileCraft","description":"PDFと画像を端末内で高画質変換","start_url":"./","scope":"./","display":"standalone","background_color":"#08111f","theme_color":"#101c32","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
